@@ -1,0 +1,38 @@
+body {
+  font-family: "Lato", sans-serif;
+  color: #696969;
+  line-height: 1.74;
+  font-size: 15px;
+  font-style: normal;
+  position: relative;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #333333;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  line-height: 1.41;
+}
+
+/* Infotechno hero START */
+.infotechno-bg {
+  background: #f4efe9;
+}
+.infotex-images {
+  max-width: 605px;
+}
+.infotechno-button a {
+  padding: 12px 36px 12px 36px;
+  background: #086ad8;
+}
+.infotechno-text h6 {
+  color: #086ad8;
+  margin-bottom: 20px;
+}
+/* .infotechno-text h1 {
+  font-size: 60px;
+} */
