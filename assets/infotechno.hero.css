@@ -36,3 +36,17 @@ h6 {
 /* .infotechno-text h1 {
   font-size: 60px;
 } */
+/* carousel start */
+.carousel img {
+  margin-right: 30px;
+}
+.carousel .last {
+  margin-right: 0;
+}
+.carousel {
+  text-align: center;
+}
+i {
+  color: #f4efe9;
+  font-size: 50px;
+}
