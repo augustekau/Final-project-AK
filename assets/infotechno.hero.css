@@ -75,3 +75,19 @@ i {
 .card-title {
   padding-top: 20px;
 }
+.col-md-6,
+.col-12 {
+  margin-bottom: 30px;
+}
+.circle-arrow {
+  bottom: -25px;
+  left: 45%;
+}
+.middle-dot {
+  background: #d2a98e;
+  border-radius: 50%;
+}
+.middle-dot:hover {
+  background: #086ad8;
+  transition: ease-in-out 0.3s;
+}
