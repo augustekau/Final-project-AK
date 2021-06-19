@@ -63,3 +63,15 @@ i {
 .hover-logo:hover {
   display: block;
 } */
+
+/* CARDS START */
+.feature-img-wrapper {
+  background: #f8f8f8;
+}
+.card {
+  padding: 50px 30px 63px 30px;
+  border: none;
+}
+.card-title {
+  padding-top: 20px;
+}
